@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="testdb1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="FeePayment">
+    <Key>
+      <PropertyRef Name="Roll no" />
+    </Key>
+    <Property Name="Roll no" Type="int" Nullable="false" />
+    <Property Name="Program" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Admission Fee" Type="nchar" MaxLength="10" />
+    <Property Name="1st Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="2nd Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="3rd Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="4th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="5th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="6th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="7th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="8th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="9th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="10th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="11th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="12th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="13th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="14th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="15th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="16th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="17th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="18th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="19th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="20th Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="21st Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="22nd Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="23rd Month Fee" Type="nchar" MaxLength="10" />
+    <Property Name="24th Month Fee" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="GR.No" />
+    </Key>
+    <Property Name="GR.No" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StudentName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FatherName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="StudentPhoneNumber1" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="StudentPhoneNumber2" Type="nchar" MaxLength="20" />
+    <Property Name="ReferenceName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ReferenceNumber" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="AdmissionDate" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="Program" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="AdmissionFeeAmount" Type="nchar" MaxLength="10" />
+    <Property Name="MonthlyFeeAmount" Type="nchar" MaxLength="10" />
+    <Property Name="CertifucateFeeAmount" Type="nchar" MaxLength="10" />
+    <Property Name="ExaminationFeeAmount" Type="nchar" MaxLength="10" />
+    <Property Name="TotalFeeAmount" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'testdb1.dbo.Testing' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Testing">
+          <Property Name="id" Type="nchar" MaxLength="10" />
+          <Property Name="name" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+  <EntityContainer Name="testdb1ModelStoreContainer">
+    <EntitySet Name="FeePayment" EntityType="Self.FeePayment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Registration" EntityType="Self.Registration" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

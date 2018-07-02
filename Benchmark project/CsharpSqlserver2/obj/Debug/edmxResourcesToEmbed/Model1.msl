@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="testdb1ModelStoreContainer" CdmEntityContainer="testdb1Entities">
+    <EntitySetMapping Name="FeePayments">
+      <EntityTypeMapping TypeName="testdb1Model.FeePayment">
+        <MappingFragment StoreEntitySet="FeePayment">
+          <ScalarProperty Name="Roll_no" ColumnName="Roll no" />
+          <ScalarProperty Name="Program" ColumnName="Program" />
+          <ScalarProperty Name="Admission_Fee" ColumnName="Admission Fee" />
+          <ScalarProperty Name="C1st_Month_Fee" ColumnName="1st Month Fee" />
+          <ScalarProperty Name="C2nd_Month_Fee" ColumnName="2nd Month Fee" />
+          <ScalarProperty Name="C3rd_Month_Fee" ColumnName="3rd Month Fee" />
+          <ScalarProperty Name="C4th_Month_Fee" ColumnName="4th Month Fee" />
+          <ScalarProperty Name="C5th_Month_Fee" ColumnName="5th Month Fee" />
+          <ScalarProperty Name="C6th_Month_Fee" ColumnName="6th Month Fee" />
+          <ScalarProperty Name="C7th_Month_Fee" ColumnName="7th Month Fee" />
+          <ScalarProperty Name="C8th_Month_Fee" ColumnName="8th Month Fee" />
+          <ScalarProperty Name="C9th_Month_Fee" ColumnName="9th Month Fee" />
+          <ScalarProperty Name="C10th_Month_Fee" ColumnName="10th Month Fee" />
+          <ScalarProperty Name="C11th_Month_Fee" ColumnName="11th Month Fee" />
+          <ScalarProperty Name="C12th_Month_Fee" ColumnName="12th Month Fee" />
+          <ScalarProperty Name="C13th_Month_Fee" ColumnName="13th Month Fee" />
+          <ScalarProperty Name="C14th_Month_Fee" ColumnName="14th Month Fee" />
+          <ScalarProperty Name="C15th_Month_Fee" ColumnName="15th Month Fee" />
+          <ScalarProperty Name="C16th_Month_Fee" ColumnName="16th Month Fee" />
+          <ScalarProperty Name="C17th_Month_Fee" ColumnName="17th Month Fee" />
+          <ScalarProperty Name="C18th_Month_Fee" ColumnName="18th Month Fee" />
+          <ScalarProperty Name="C19th_Month_Fee" ColumnName="19th Month Fee" />
+          <ScalarProperty Name="C20th_Month_Fee" ColumnName="20th Month Fee" />
+          <ScalarProperty Name="C21st_Month_Fee" ColumnName="21st Month Fee" />
+          <ScalarProperty Name="C22nd_Month_Fee" ColumnName="22nd Month Fee" />
+          <ScalarProperty Name="C23rd_Month_Fee" ColumnName="23rd Month Fee" />
+          <ScalarProperty Name="C24th_Month_Fee" ColumnName="24th Month Fee" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Registrations">
+      <EntityTypeMapping TypeName="testdb1Model.Registration">
+        <MappingFragment StoreEntitySet="Registration">
+          <ScalarProperty Name="GR_No" ColumnName="GR.No" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+          <ScalarProperty Name="FatherName" ColumnName="FatherName" />
+          <ScalarProperty Name="StudentPhoneNumber1" ColumnName="StudentPhoneNumber1" />
+          <ScalarProperty Name="StudentPhoneNumber2" ColumnName="StudentPhoneNumber2" />
+          <ScalarProperty Name="ReferenceName" ColumnName="ReferenceName" />
+          <ScalarProperty Name="ReferenceNumber" ColumnName="ReferenceNumber" />
+          <ScalarProperty Name="AdmissionDate" ColumnName="AdmissionDate" />
+          <ScalarProperty Name="Program" ColumnName="Program" />
+          <ScalarProperty Name="AdmissionFeeAmount" ColumnName="AdmissionFeeAmount" />
+          <ScalarProperty Name="MonthlyFeeAmount" ColumnName="MonthlyFeeAmount" />
+          <ScalarProperty Name="CertifucateFeeAmount" ColumnName="CertifucateFeeAmount" />
+          <ScalarProperty Name="ExaminationFeeAmount" ColumnName="ExaminationFeeAmount" />
+          <ScalarProperty Name="TotalFeeAmount" ColumnName="TotalFeeAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

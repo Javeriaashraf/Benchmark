@@ -1,0 +1,38 @@
+c:\users\core\documents\visual studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\bin\Debug\CsharpSqlserver2.exe.config
+c:\users\core\documents\visual studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\bin\Debug\CsharpSqlserver2.exe
+c:\users\core\documents\visual studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\bin\Debug\CsharpSqlserver2.pdb
+c:\users\core\documents\visual studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.csprojResolveAssemblyReference.cache
+c:\users\core\documents\visual studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.Form1.resources
+c:\users\core\documents\visual studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.Properties.Resources.resources
+c:\users\core\documents\visual studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.csproj.GenerateResource.Cache
+c:\users\core\documents\visual studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.exe
+c:\users\core\documents\visual studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.pdb
+C:\Users\core\Documents\Visual Studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.Form2.resources
+C:\Users\core\Documents\Visual Studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.FormA.resources
+C:\Users\core\Documents\Visual Studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.FormSearch.resources
+C:\Users\core\Documents\Visual Studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.FormFee.resources
+C:\Users\core\Documents\Visual Studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.FormPrint.resources
+C:\Users\core\Documents\Visual Studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\bin\Debug\EntityFramework.dll
+C:\Users\core\Documents\Visual Studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\core\Documents\Visual Studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\bin\Debug\EntityFramework.xml
+C:\Users\core\Documents\Visual Studio 2013\Projects\CsharpSqlserver2\CsharpSqlserver2\bin\Debug\EntityFramework.SqlServer.xml
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\bin\Debug\CsharpSqlserver2.exe.config
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\bin\Debug\CsharpSqlserver2.exe
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\bin\Debug\CsharpSqlserver2.pdb
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\bin\Debug\EntityFramework.dll
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\bin\Debug\EntityFramework.SqlServer.dll
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\bin\Debug\EntityFramework.xml
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\bin\Debug\EntityFramework.SqlServer.xml
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.csprojResolveAssemblyReference.cache
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.Form1.resources
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.Form2.resources
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.FormA.resources
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.FormFee.resources
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.FormPrint.resources
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.FormSearch.resources
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.Properties.Resources.resources
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.csproj.GenerateResource.cache
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.csproj.CoreCompileInputs.cache
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.csproj.CopyComplete
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.exe
+E:\CsharpSqlserver2(Benchmark project)\CsharpSqlserver2\obj\Debug\CsharpSqlserver2.pdb
